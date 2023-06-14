@@ -1,0 +1,37 @@
+export const week = [
+    {
+        id:1,
+        weekDay:'M',
+        number:'25'
+    },
+    {
+        id:2,
+        weekDay:'T',
+        number:'26'
+    },
+    {
+        id:3,
+        weekDay:'W',
+        number:'27'
+    },
+    {
+        id:4,
+        weekDay:'T',
+        number:'28'
+    },
+    {
+        id:5,
+        weekDay:'F',
+        number:'29'
+    },
+    {
+        id:6,
+        weekDay:'S',
+        number:'30'
+    },
+    {
+        id:7,
+        weekDay:'S',
+        number:'31'
+    },
+]
